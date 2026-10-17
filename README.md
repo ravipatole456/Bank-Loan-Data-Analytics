@@ -26,6 +26,16 @@ This project addresses key analytical questions:
 - **Power BI** — Interactive dashboards, data visualization, and analytical measures.
 - **MySQL** — SQL queries for KPI calculations and chart-level analysis.
 
+
+## 🧠 Skills Demonstrated
+
+- **SQL & Data Analysis:** Aggregate functions, filtering, conditional logic, JOIN, GROUP BY, ORDER BY, and KPI calculations.
+- **Microsoft Excel:** Data analysis, KPI reporting, and dashboard development.
+- **Power BI:** Dashboard design, interactive reporting, and data visualization.
+- **Business & Financial Analytics:** Loan portfolio analysis, verification, delinquency, and default risk analysis.
+- **Data Visualization:** Presenting key metrics through clear and informative dashboards.
+- **Analytical Thinking:** Converting banking data into meaningful business insights.
+
 ## 📊 Key Performance Indicators (KPIs)
 
 - Total Loan Accounts
@@ -67,6 +77,7 @@ The SQL analysis covers:
 - Performing aggregations and conditional analysis for key metrics.
 
 **SQL Files:** [`Mysql`](./Mysql/)
+
 
 ## 🔍 Key Insights
 
