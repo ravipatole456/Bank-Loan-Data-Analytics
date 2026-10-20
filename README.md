@@ -59,6 +59,7 @@ Excel dashboards provide a visual overview of the banking loan data and key perf
 ### 2. Power BI Dashboard
 
 The Power BI dashboard presents loan-related metrics and visualizations to support interactive exploration of the data.
+
 Loan Portfolio Overview
 <img width="1728" height="925" alt="Screenshot 2026-10-20 192329" src="https://github.com/user-attachments/assets/6f3a75a9-0ecb-49ed-b22c-b3fc5e17ab3c" />
 
